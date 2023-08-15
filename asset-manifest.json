@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokesearch/static/css/main.d68f21bb.css",
+    "main.js": "/pokesearch/static/js/main.f34dca0d.js",
+    "static/js/787.488b2bbb.chunk.js": "/pokesearch/static/js/787.488b2bbb.chunk.js",
+    "static/media/pokemon-sprite-title.png": "/pokesearch/static/media/pokemon-sprite-title.d35b6b78096626922097.png",
+    "index.html": "/pokesearch/index.html",
+    "main.d68f21bb.css.map": "/pokesearch/static/css/main.d68f21bb.css.map",
+    "main.f34dca0d.js.map": "/pokesearch/static/js/main.f34dca0d.js.map",
+    "787.488b2bbb.chunk.js.map": "/pokesearch/static/js/787.488b2bbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68f21bb.css",
+    "static/js/main.f34dca0d.js"
+  ]
+}
