@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pokemon-sprite {
+    width: 200px;
+    height: 200px;
+}
+
+input {
+    border: none;
+    margin: 20px !important;
+}
+
+button {
+    margin: 20px !important;
+}
+
+h2{
+    color: black;
+    font-weight: 100;
+}
