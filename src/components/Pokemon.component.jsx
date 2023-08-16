@@ -4,8 +4,8 @@ const Pokemon = () => {
 
     // For the input button
     const [updated, setUpdated] = useState('');
-    const [currentPokemon, setCurrentPokemon] = useState('ditto');
-    const [lastSearched, setLastSearched] = useState('ditto');
+    const [currentPokemon, setCurrentPokemon] = useState('pikachu');
+    const [lastSearched, setLastSearched] = useState('pikachu');
 
     //For fetching the Pokemon sprite
     const [sprite, setSprite] = useState(null);
